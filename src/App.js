@@ -1,5 +1,4 @@
 import React from "react";
-import logo from './logo1.svg';
 import TodoApp from "./TodoApp";
 
 function App() {
